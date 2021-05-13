@@ -5,4 +5,4 @@ qa:
   frontend: 1.4.42
   backend: 1.6.1
 test:
-  foo: barz
+  foo: bar
